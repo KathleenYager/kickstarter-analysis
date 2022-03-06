@@ -14,4 +14,4 @@ Report includes finding on:
 * Statistics of successful and failed campaigns for plays in the United States 
 * Distribution comparison of campaign goals and total pledges for plays in the United States. 
 
-Based on the research conducted, the prime time for launching kickstarter campaigns is between April-June. Kickstarter theater campaigns in the United States and Great Britain have higher rate of success than failure. The median pledge is slightly higher than the median goal of $3000. The average pledge is slightly higher than the average goal of $5000 suggesting the goal could be raised slightly on new campaigns.. 
+Based on the research conducted, the prime time for launching kickstarter campaigns is between April-June. Kickstarter theater campaigns in the United States and Great Britain have higher rate of success than failure. The median pledge is slightly higher than the median goal of $3000. The average pledge is slightly higher than the average goal of $5000 suggesting the goal could be raised slightly on new campaigns.
